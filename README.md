@@ -42,4 +42,5 @@ If spring boot application is running on application server as web application, 
 		</dependency>
 
 To debug log4j2:
+	
 	java ... -Dlog4j2.debug=true
