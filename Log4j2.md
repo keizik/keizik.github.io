@@ -38,6 +38,11 @@ If spring boot application is running on application server as web application, 
 			<artifactId>log4j-api</artifactId>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-core</artifactId>
+			<scope>provided</scope>
+		</dependency>
 
 To debug log4j2:
 	
