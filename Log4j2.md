@@ -1,4 +1,7 @@
 # Log4j2 with Spring Boot
+
+<i>Examples of Log4j2 configuration with Spring Boot 2.4</i>
+
 To run Log4j2 with spring boot:
 
 		<dependency>
