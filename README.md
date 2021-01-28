@@ -6,4 +6,4 @@ Examples of Log4j2 configuration with Spring Boot 2.4
 
 <i>2019-03-12:</i><br>
 [Top 10 insights from Java OCA certification](JavaTipsAndTricks.md)<br>
-10 Java tips and tricks for OCA
+In this blog post 10 Java tricks you might have forgotten or never even had a chance to glance at will be examined
